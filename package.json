@@ -11,6 +11,6 @@
   "dependencies": {
     "crypto": "^1.0.1",
     "https": "^1.0.0",
-    "tencentcloud-sdk-nodejs": "^3.0.82"
+    "tencentcloud-sdk-nodejs": "^3.0.270"
   }
 }
